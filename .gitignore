@@ -7,7 +7,6 @@ rust_client/Cargo.lock
 
 # Logs
 *.log
-logs/
 
 # IDE
 .vscode/
