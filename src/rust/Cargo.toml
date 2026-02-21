@@ -5,3 +5,7 @@ edition = "2021"
 
 [dependencies]
 chrono = "0.4.43"
+
+[[bin]]
+name = "rust_client"
+path = "src/main.rs"
