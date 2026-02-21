@@ -1,0 +1,20 @@
+# Compiled files
+*.o
+*.exe
+cpp_server
+rust_client/target/
+rust_client/Cargo.lock
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*~
+*.tmp
